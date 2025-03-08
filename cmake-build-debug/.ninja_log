@@ -1,0 +1,7 @@
+# ninja log v6
+29	94	1741474965999810430	CMakeFiles/Project_3.dir/MyStackNode.cpp.o	c02ec8d7f1fecffb
+28	101	1741474965998611119	CMakeFiles/Project_3.dir/Graph.cpp.o	daac7a02301d9825
+27	444	1741474965998194737	CMakeFiles/Project_3.dir/main.cpp.o	f8e3b03037d464d0
+28	447	1741474965998767538	CMakeFiles/Project_3.dir/MyVector.cpp.o	fc863c2a38689828
+28	447	1741474965998939082	CMakeFiles/Project_3.dir/MyStack.cpp.o	7d1ed27367a5455a
+447	485	1741474966418266071	Project_3	7eca8f94e0fc4eb2
