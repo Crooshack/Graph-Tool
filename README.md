@@ -40,7 +40,6 @@ The following parameters are not implemented and will output `?`:
 - **5. Planarity**
 - **6. Vertex coloring** (Greedy, LF, SLF)
 - **7. Number of different C4 subgraphs**
-- **8. Number of complement graph edges**
 
 ## Example 
 ### Input
