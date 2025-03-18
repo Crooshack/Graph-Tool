@@ -39,7 +39,7 @@ The following parameters are not implemented and will output `?`:
 - **4. Eccentricity of vertices**
 - **5. Planarity**
 - **6. Vertex coloring** (Greedy, LF, SLF)
-- **7. Number of different C4 subgraphs**
+- **7. Number of different C4 subgraphs (I think I implemented it, but it was too slow to pass tests)**
 
 ## Example 
 ### Input
